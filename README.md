@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![rianonehub's github stats](https://github-readme-stats.vercel.app/api?username=rianonehub&show_icons=true&count_private=true&theme=dark)
+![rianonehub's github stats](https://github-readme-stats.vercel.app/api?username=rianonehub&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianonehub&count_private=true&theme=dark&langs_count=8)
 
 <!--
 **rianonehub/rianonehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi, i'm Rian 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rianonehub&locale=jv)](https://git.io/rianonehub)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rianonehub&locale=jv)](https://github.com/rianonehub)
 
 ## Support for a coffe ☕
 

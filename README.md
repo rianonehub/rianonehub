@@ -1,8 +1,8 @@
-### Hi, i'm Rian 👋
+### Hi, I'm Rian 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rianonehub&locale=jv)](https://github.com/rianonehub)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rianonehub&locale=jv)](https://git.io/streak-stats)
 
-## Support for a coffe ☕
+## Support for a coffee ☕
 
 <p align="left">
   <a href="https://github.com/sponsors/rianonehub"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
